@@ -8,7 +8,7 @@ public abstract class A {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 System.out.println("from main");
-System.out.println("hi");
+System.out.println("hi hello");
 test();
 	}
 
